@@ -1,0 +1,42 @@
+{
+	"success": true,
+	"data": {
+		"topicList": [{
+			"id": 1,
+			"title": "社会热点",
+			"imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 2,
+			"title": "手绘",
+			"imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}],
+		"articleList": [{
+			"id": 1,
+			"title": "胡歌12年后首谈车祸",
+			"desc": "文/麦大人 01 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 2,
+			"title": "朴树：幸福像花儿一样🥰",
+			"desc": "文/麦大人 又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 3,
+			"title": "三年高考五年模拟",
+			"desc": "文/麦大人 01 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 4,
+			"title": "七校联盟",
+			"desc": "七校联合办学，又称武汉七校联盟，是指在中国湖北省武汉地区七所中华人民共和国教育部直属高等学校之间实施的一种联合办学模式，根据资源共享，优势互补，平等互利，相互促进的原则，七校从1999年开始联合办学，学生可以跨校跨学科辅修第二学位",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}],
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+		}, {
+			"id": 2,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+		}]
+	}
+}
