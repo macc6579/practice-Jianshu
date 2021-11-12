@@ -4,7 +4,7 @@ import logoPic from '../../statics/logo.png';
 export const HeaderWrapper = styled.div`
 	z-index: 1;
 	position: relative;
-	height: 56px;
+	height: 60px;
 	border-bottom: 1px solid #f0f0f0;
 `;
 
@@ -20,9 +20,10 @@ export const Logo = styled.div`
 `;
 
 export const Nav = styled.div`
+    display: flex;
 	width: 960px;
 	height: 100%;
-	padding-right: 70px;
+	padding-right: 80px;
 	box-sizing: border-box;
 	margin: 0 auto;
 `;
@@ -50,7 +51,7 @@ export const SearchWrapper = styled.div`
 	.zoom {
 		position: absolute;
 		right: 5px;
-		bottom: 5px;
+		bottom: 18px;
 		width: 30px;
 		line-height: 30px;
 		border-radius: 15px;
@@ -65,7 +66,7 @@ export const SearchWrapper = styled.div`
 export const NavSearch = styled.input.attrs({
 	placeholder: '搜索'
 })`
-	width: 160px;
+	width: 130px;
 	height: 38px;
 	padding: 0 30px 0 20px;
 	margin-top: 9px;
