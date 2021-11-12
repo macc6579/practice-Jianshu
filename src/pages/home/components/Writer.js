@@ -5,7 +5,7 @@ class Writer extends PureComponent {
 
 	render() {
 		return (
-			<WriterWrapper>推荐作者</WriterWrapper>
+			<WriterWrapper>推荐作者 列表</WriterWrapper>
 		)
 	}
 }
